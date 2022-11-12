@@ -1,0 +1,19 @@
+:{
+   --ElectricBlue: #373e98;
+   --HotPink: #f16775;
+   --ShockingYellow: #fee36e;
+   --Chartreuseish: #ceb92c;
+   --DarkestGray: #2a2a2a;
+}
+* {
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 20px;
+    margin: 20px;
+}
+/*this is loading from googlefonts*/
+@font-face {
+    font-family: 'Jost', sans-serif;
+    src: url("https://fonts.googleapis.com/css2?family=Jost&display=swap");
+}
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
